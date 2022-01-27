@@ -44,3 +44,8 @@ git branch
 git checkout -b nombre_del_branch
 ```
 - Sirve para crear una nueva branch y poder trabajar en él.
+
+```
+git checkout nombre_del_branch
+```
+- Sirve para moverme entre branches y poder trabajar en él.
