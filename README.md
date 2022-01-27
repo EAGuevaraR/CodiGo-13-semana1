@@ -33,4 +33,4 @@ git push origin main
 ```
 git pull origin main
 ```
-- Se encarga de jalar archivos de git hub al pc
+- Sirve para poder descargar los cambios de nuestro repositorio en la nube, en este caso Github.
