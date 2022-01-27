@@ -29,3 +29,8 @@ git commit -m "comentario"
 git push origin main
 ```
 - Sirve para poder subir los cambios a nuestro repositorio en la nube, en este caso GitHub.
+
+```
+git pull origin main
+```
+- Se encarga de jalar archivos de git hub al pc
