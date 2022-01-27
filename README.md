@@ -35,10 +35,6 @@ git pull origin main
 ```
 - Sirve para poder descargar los cambios de nuestro repositorio en la nube, en este caso Github.
 
-<<<<<<< HEAD
-Esta línea es para probar
-
-=======
 ```
 git branch
 ```
@@ -53,4 +49,3 @@ git checkout -b nombre_del_branch
 git checkout nombre_del_branch
 ```
 - Sirve para moverme entre branches y poder trabajar en él. Si tuviera el -b sería para crear.
->>>>>>> eb0c8a4e6c87407e5166fb53568feaadd3a989df
