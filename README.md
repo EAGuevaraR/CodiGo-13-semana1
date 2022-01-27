@@ -39,3 +39,8 @@ git pull origin main
 git branch
 ```
 - Sirve para poder listar los branch que tengo localmente y me dice en cual me encuentro actualmente.
+
+```
+git checkout -b nombre_del_branch
+```
+- Sirve para crear una nueva branch y poder trabajar en él.
