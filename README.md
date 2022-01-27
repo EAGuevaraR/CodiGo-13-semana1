@@ -48,4 +48,4 @@ git checkout -b nombre_del_branch
 ```
 git checkout nombre_del_branch
 ```
-- Sirve para moverme entre branches y poder trabajar en él.
+- Sirve para moverme entre branches y poder trabajar en él. Si tuviera el -b sería para crear.
